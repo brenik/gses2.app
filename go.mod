@@ -1,3 +1,3 @@
-module gses2.app
+module github/brenik/gses2.app
 
 go 1.18
